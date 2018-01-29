@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beacon Monitor</string>
+    <string name="flip_to_sleep">Flip your beacon on and off if using \&quot;Flip to Sleep,\&quot; or go in and out of range, and observe the &quot;enter&quot; and \&quot;exit\&quot; notifications.\n\nNote that it may take up to 40 seconds with default scan period settings.\n\nBest of all—it also works when the app is running in the background!</string>
+</resources>
